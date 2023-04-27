@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": {
+    "quizlist": [
+      {
+        "id": 1,
+        "titlequiz": "Aptitude Test - The One Technologies",
+        "quiztime": "180"
+      },
+      {
+        "id": 12,
+        "titlequiz": "JHJHJ",
+        "quiztime": "30"
+      },
+      {
+        "id": 13,
+        "titlequiz": "quiz",
+        "quiztime": "30"
+      },
+      {
+        "id": 15,
+        "titlequiz": "dsa",
+        "quiztime": "30"
+      },
+      {
+        "id": 18,
+        "titlequiz": "Aptitude Test - The One Technologies ",
+        "quiztime": "30"
+      },
+      {
+        "id": 20,
+        "titlequiz": "test ashvin",
+        "quiztime": "30"
+      }
+    ],
+    "total_duration": 330
+  }
+}
